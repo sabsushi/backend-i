@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3ff7aaf7-8e1d-492b-94db-8e206d74a4e9",
+    "title": "Planning",
+    "date": "2026-03-10",
+    "owner": "Jorge",
+    "participants": [
+      "Ana",
+      "Rui"
+    ],
+    "action_items": [
+      {
+        "description": "Send recap",
+        "owner": "Ana",
+        "due_date": "2026-03-11",
+        "is_done": false
+      },
+      {
+        "description": "Write report",
+        "owner": "Jorge",
+        "due_date": "2026-04-10",
+        "is_done": false
+      }
+    ]
+  },
+  {
+    "id": "fdab94b1-8296-477d-bb31-342d23665382",
+    "title": "Ola",
+    "date": "1990-12-10",
+    "owner": "Cleber",
+    "participants": [
+      "Mauro",
+      "Leandro",
+      "Dinis"
+    ],
+    "action_items": []
+  }
+]

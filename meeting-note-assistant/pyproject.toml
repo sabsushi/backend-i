@@ -1,0 +1,13 @@
+[project]
+name = "meeting-note-assistant"
+version = "0.1.0"
+description = "Backend I meeting note assistant project"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.135.1",
+    "typer>=0.16,<1.0",
+    "uvicorn>=0.42.0",
+]
+
+[tool.uv]
+package = false
